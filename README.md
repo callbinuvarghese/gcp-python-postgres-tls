@@ -1,4 +1,4 @@
-# gcp-cloud-sql-postgres-connection
+# gcp-python-postgres-tls
 Simple Python(psycopg2) Cloud Run Container to Connect to GCP Cloud SQL using --vpc-connector
 
 #Python using psycogp2 as the driver
